@@ -1,9 +1,9 @@
 To Do-
 
-* Shorten all sections
-* Tweak abstract
-* Rewrite introduction and conclusion
-* Rewrite section on Accelerated-S2 around why it is a useful alternative to S2 and with a shorter description of the algorithm 
-* Modify psuedo-code of Accelerated-S2 to make it clearer
-* Add example graphs to illustrate differences in the algorithms
-* Add discussion section for experiments
+* Shorten all sections (GD)
+* Tweak abstract (GD - on 25th)
+* Rewrite introduction and conclusion (GD, JZ - later)
+* Rewrite section on Accelerated-S2 around why it is a useful alternative to S2 and with a shorter description of the algorithm (PK)
+* Modify psuedo-code of Accelerated-S2 to make it clearer (PK, GD)
+* Add example graphs to illustrate differences in the algorithms (PK, GD)
+* Add discussion section for experiments (?)
