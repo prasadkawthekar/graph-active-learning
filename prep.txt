@@ -7,3 +7,6 @@ To Do-
 * Rewrite introduction and conclusion (GD, JZ - later)
 * Rewrite section on Accelerated-S2 around why it is a useful alternative to S2 and with a shorter description of the algorithm (PK)
 * Add discussion section for experiments (?)
+* Change ~ notation; maybe replace with "arbit." (PK) 
+* Add definitions: pure bipolar path (PK)
+* Rename BFS to something else (e.g., Boudary grow, explore positive etc) (PK)
