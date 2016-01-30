@@ -1,0 +1,9 @@
+
+*.aux
+*.fls
+*.bbl
+*.blg
+*.log
+*.fdb_latexmk
+*.synctex.gz
+paper/a2s2.pdf
