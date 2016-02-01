@@ -12,4 +12,5 @@ To Do-
 * Rename BFS to something else (e.g., Boudary grow, explore positive etc) (PK, GD, JZ)
 * Add comments to Accelerated-S2 to make it clearer (PK, GD)
 * Update notation for other psuedo-code (PK)
+* Test change
 * Remove S2 psuedo-code from paper and edit discussion (PK)
